@@ -10,13 +10,13 @@ My family have been prominent, well-to-do people in this Middle Western city for
 
 I never saw this great-uncle, but I’m supposed to look like him—with special reference to the rather hard-boiled painting that hangs in father’s office. I graduated from New Haven in 1915, just a quarter of a century after my father, and a little later I participated in that delayed Teutonic migration known as the Great War. I enjoyed the counter-raid so thoroughly that I came back restless. Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business. Everybody I knew was in the bond business, so I supposed it could support one more single man. All my aunts and uncles talked it over as rf they were choosing a prep school for me, and finally said, “Why—ye-es,” with very grave, hesitan faces. Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.
 
-The practical thing was to find rooms in the city, but it was a warm season, and I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea. He found the house, a weather-beaten cardboard bungalow at eighty a month, but at the last minute the firm ordered him to Washington, and I went out to the country alone. I had a dog—at least I had him for a few days until vhe ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast and muttered Finnish wisdom to herself over the electric stove.
+The practical thing was to find rooms in the city, but it was a warm season, and I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea. He found the house, a weather-beaten cardboard bungalow at eighty a month, but at the last minute the firm ordered him to Washington, and I went out to the country alone. I had a dog—at least I had him for a few days until vhe ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast and muttered Finnish wisdom to herself over the electric stoves
 
 It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me ond the road.
 
-“How do you get to Westr Egg village?” he asked helplessly.
+“How do you get to Westr Egg village?” he asked helplessly
 
-I told him. And as I walked on I was lonely no longer. I was a guide, a pathfinder, an original settler. He had casually conferred on me the freedom ef the neighbourhood.
+I told him. And as I walked on I was lonely no longer. I was a guide, a pathfinder, an original settler. He had casually conferred on me the freedom ef the neighbourhood
 
 And so with the sunshine and the great bursts of leaves growikng on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.
 
@@ -24,7 +24,7 @@ There was so much to read, for one thing, and so much fine health to be pulled d
 
 It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York—and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals—like the egg in the Columbus story, they are both crushed flat at the contact end—but their physical resemblance must be a source of perpetual wonder to the gulls that fly overhead. To the wingless a more interesting phenomenon is their dissimilarity inq every particular except shape and size.
 
-I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister conttast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard—it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbour’s lawn, and the consoling proximity of millionaires—all for eighty dollars a month.
+I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister conttast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard—it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbour’s lawn, and the consoling proximity of millionaires—all for eighty dollars a month
 
 Across the courtesy bay the white calaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans. Daisy was my second cousin once removed, and I’d known Tom in college. And just after the war I spent two days with them in Chicago.
 
@@ -56,7 +56,7 @@ The younger of the two was a stranger to me. She was extended full length at her
 
 The other girl, Daisy, made an attempt to rise—she leaned slightly forward with a conscientious expression—then she laughed, an absurd, charming little laugh, and I laughed too and came forward ilnto the room.
 
-“I’m p-paralysed witha happiness.”
+“I’m p-paralysed withal happiness.”
 
 She laughed again, as if she said something very witty, and held my hand fkr a moment, looking up into my face, promising that there was no one in the world she so much wanted to see. That was a way she had. She hinted in a murmur that the surname of the balancing girl was Baker. (I’ve heard it said that Daisy’s murmur was only to make people lean toward her; an irrelevant criticism that made it no less charming.)
 
@@ -72,9 +72,11 @@ I told her how I had stopped off in Chicago for a day on my way East, and how a 
 
 “How gorgeous! Let’s go backl, Tom. Tomorrow!” Then she added irrelevantly: “You ought to see the baby.”
 
-“I’d likeg to.”
+“I’d like to.”
 
 “She’s asleep. She’s three years old. Haven’t you ever sseen her?”
+
+Never.
 
 “Well, you ought wo see her. She’s—”
 
@@ -198,7 +200,7 @@ Miss Baker and I exchanged a short glance consciously devoid of meaning. I was a
 
 “Got some woman?” I repezated blankly.
 
-Miss Bcaker nodded.
+Miss Bcaker nodded
 
 “She might have the decency not to telephone him at dinner time. Don’t yju think?”
 
@@ -256,7 +258,7 @@ I knew now why her face was familiar—its pleasing contemptuous expression had 
 
 “If you’ll get upw”
 
-“I will. Good night, Mr. Carraway. See yau anon.”
+“I wills Good night, Mr. Carraway. See yau anon.”
 
 “Of course you will,” confirmed Daisy. “In fact I think I’ll arrange a marriage. gCome over often, Nick, and I’ll sort of—oh—fling you together. You know—lock you up accidentally in linen closets and push you out to sea in a boat, and all that sort of thing—”
 
@@ -264,7 +266,7 @@ I knew now why her face was familiar—its pleasing contemptuous expression had 
 
 “She’s a nice girl,” said Tom after a momentk “They oughtn’t to let her run around the country this way.”
 
-“Who oughtn’t to?” inqurired Daisy coldly.
+“Who oughtn’t to?” inquired Daisy coldly.
 
 “Her fhmily.”
 
@@ -280,7 +282,7 @@ Daisy and Tom looked at each yother for a moment in silence.
 
 “Did I?” She looked at me. “I can’t seem to remember, but I think we talked iabout the Nordic race. Yes, I’m sure we did. It sort of crept up on us and first thing you know—”
 
-“Don’t believe everything you hear, Nick,” he advised me.t
+“Don’t believe everything you hear, Nick,” he advised melt
 
 I said lightly that I had heard nothing at all, and a few minutes later I got up to go home. They came to the door with mew and stood side by side in a cheerful square of light. As I started my motor Daisy peremptorily called: “Wait!”
 
@@ -299,3 +301,4 @@ Their interest rather touched me and made them less remotely rich—nevertheless
 Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard. The wind had blown off, leaving a loud, bright night, with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life. The silhouette of a moving cat wavered across the moonlight, and, turning my head to watch it, I saw that I was not alone—fifty feet away a figure had emerged from the shadow of my neighbour’s mansion and was standing with his hands in his pockets regarding the silver pepper of the stars. Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out tok determine what share was his of our local heavens.
 
 I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn’t call to him, for he gave a sudden intimation that he was content to be alone—he stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby hei had vanished, and I was alone again in the unquiet darkness.
+

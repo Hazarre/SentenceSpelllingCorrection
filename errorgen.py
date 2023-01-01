@@ -2,12 +2,9 @@ import re
 from collections import Counter
 import random 
 
-
 # this file generates one spelling error per sentence for a input text file. 
 
 # the spelling errors are generated with edit distance 1 and 2. 
-
-
 def edits1(word):
     "All edits that are one edit away from `word`."
     letters    = 'abcdefghijklmnopqrstuvwxyz'

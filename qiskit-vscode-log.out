@@ -8,3 +8,16 @@ error - Object: /bin/sh: 1: python: not found
 verbose - Object: Deactivating Qiskit extension ...
 verbose - Object: Activating qiskit-vscode extension...
 verbose - Object: ✨ Activating qiskit-vscode extension... ✨
+verbose - Object: Deactivating Qiskit extension ...
+verbose - Object: Activating qiskit-vscode extension...
+verbose - Object: ✨ Activating qiskit-vscode extension... ✨
+error - Object: /bin/sh: 1: python: not found
+
+error - Object: /bin/sh: 1: python: not found
+
+error - Object: /bin/sh: 1: python: not found
+
+error - Object: /bin/sh: 1: python: not found
+
+info - Object: QConfig is not configured. The command won't be launched
+verbose - Object: Deactivating Qiskit extension ...
